@@ -1,0 +1,5 @@
+from flaskapp import app
+
+@app.route('/')
+def index():
+    return 'Welcome Page!'
