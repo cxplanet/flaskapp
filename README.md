@@ -15,3 +15,4 @@ Assuming you have sqlite3, python and pip installed:
 
 
 Should result in a server instance that listens on all addresses on port 5000
+If you are monogo-inclined, take a look at https://flask-pymongo.readthedocs.org/en/latest/ on installing mongo support
